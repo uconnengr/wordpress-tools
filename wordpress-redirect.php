@@ -4,7 +4,7 @@
  * By Orlando Echevarria, School of Engineering
  * E-Mail: orlando@engr.uconn.edu
  * Property of the University of Connecticut, Copyright 2014
- * Released under the MIT License, http://www.gnu.org/licenses/gpl-2.0.html
+ * Released under the MIT License
  * 
  */
 
